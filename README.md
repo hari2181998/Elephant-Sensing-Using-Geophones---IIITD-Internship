@@ -1,7 +1,7 @@
 # Elephant Sensing Using Geophones
 
 
-Elephant accidents near railway tracks are increasing year by year. The objective of the project is to detect the elephant's footsteps and raising an alarm
+Elephant accidents near railway tracks are increasing every year. The objective of the project is to detect the elephant's footsteps and raising an alarm
 to avoid the accident. The footsteps generate seismic waves in the ground in different patterns which can be used to classify the animals based on their
 footsteps.
 
